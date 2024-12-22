@@ -50,15 +50,7 @@ This repository contains a Jupyter Notebook implementing a Deep Q-Network (DQN) 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/dqn-traffic-optimization.git
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd dqn-traffic-optimization
-   ```
-3. Launch the notebook:
-   ```bash
-   jupyter notebook DQN_update_2.ipynb
+   git clone https://github.com/thisisarjun100905/Optimization-of-traffic-signal-light-system
    ```
 
 ## Results and Visualizations
